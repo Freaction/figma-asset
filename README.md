@@ -1,0 +1,2 @@
+# figma-asset
+Assets
